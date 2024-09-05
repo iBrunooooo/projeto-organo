@@ -1,0 +1,20 @@
+[
+  {
+    "id": 0,
+    "img": "/img/github.svg",
+    "redeSocial": "GitHub",
+    "link": "https://github.com/iBrunooooo?tab=repositories"
+  },
+  {
+    "id": 1,
+    "img": "/img/instagram.svg",
+    "redeSocial": "Instagram",
+    "link": "https://www.instagram.com/ibrunooooo/"
+  },
+  {
+    "id": 2,
+    "img": "/img/linkedin.svg",
+    "redeSocial": "LinkedIn",
+    "link": "https://www.linkedin.com/in/ibrunoalves/"
+  }
+]
